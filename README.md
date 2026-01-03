@@ -169,7 +169,7 @@ The dashboard is designed to resemble **internal churn monitoring tools used by 
 
 ### Dataset Description
 
-The project uses a **e-commerce dataset** consisting of:
+The project uses an **e-commerce dataset** consisting of:
 
 * Users
 * Products
