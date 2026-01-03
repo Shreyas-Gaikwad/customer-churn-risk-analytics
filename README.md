@@ -2,7 +2,7 @@
 
 <img width="1903" height="1931" alt="ChurnDashboard" src="https://github.com/user-attachments/assets/2532221d-7f6e-48cc-9438-dbba727f2314" />
 
-An end-to-end **customer churn analysis and risk scoring project** built on a synthetic e-commerce dataset.
+An end-to-end **customer churn analysis and risk scoring project** built on an e-commerce dataset.
 This project demonstrates how a **data analyst approaches churn through structured behavioral analysis**, followed by Python-based validation, explainable machine learning, and an executive-ready interactive dashboard.
 
 The focus is on **understanding behavioral disengagement, defining churn rigorously, and translating inactivity signals into actionable retention insights**.
@@ -169,7 +169,7 @@ The dashboard is designed to resemble **internal churn monitoring tools used by 
 
 ### Dataset Description
 
-The project uses a **synthetic e-commerce dataset** consisting of:
+The project uses a **e-commerce dataset** consisting of:
 
 * Users
 * Products
